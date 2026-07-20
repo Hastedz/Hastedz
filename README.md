@@ -1,5 +1,12 @@
 ## Hi there 👋
+## I'm Rafael, a System Developer based in Brazil
+## Im Interested in Cloud Computing, Cybersecurity, and Software Development.
 
+##Im currently learning:
+##Python
+##Java
+##Git
+##SQL
 <!--
 **Hastedz/Hastedz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
